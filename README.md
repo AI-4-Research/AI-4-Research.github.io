@@ -1,7 +1,7 @@
 <h2 id="scientific-comprehension">1. AI for Scientific Comprehension</h2>
 
 <h3 id="textual-scientific-comprehension">1.1 Textual Scientific Comprehension</h3>
-<img src="./assets/images/scientific-comprehension.png" style="width: 580pt">
+<img src="./static/images/scientific-comprehension.png" style="width: 580pt">
 <h4 id="semi-automatic-scientific-comprehension">1.1.1 Semi-Automatic Scientific Comprehension</h4>
 <b>Human-Guided Scientific Comprehension</b>
 <ul>
@@ -134,7 +134,7 @@
 <h2 id="academic-survey">2. AI for Academic Survey</h2>
 
 <h3 id="related-work-retrieval">2.1 Related Work Retrieval</h3>
-<img src="./assets/images/academic-survey.png" style="width: 580pt">
+<img src="./static/images/academic-survey.png" style="width: 580pt">
 <b>Semantic-Guided Retrieval</b>
 <ul>
 <li><i><b>Scientific paper recommendation: A survey</b></i>, Bai et al., <img src="https://img.shields.io/badge/Ieee Access-2019-green" alt="Ieee Access Badge"></li>
@@ -286,7 +286,7 @@
 <h2 id="scientific-discovery">3. AI for Scientific Discovery</h2>
 
 <h3 id="idea-mining">3.1 Idea Mining</h3>
-<img src="./assets/images/scientific-discovery.png" style="width: 580pt">
+<img src="./static/images/scientific-discovery.png" style="width: 580pt">
 <h4 id="idea-mining-from-internal-knowledge">3.1.1 Idea Mining from Internal Knowledge</h4>
 <ul>
 <li><i><b>Ideas are dimes a dozen: Large language models for idea generation in innovation</b></i>, Girotra et al., <img src="https://img.shields.io/badge/Other Source-2023.07-lightgrey" alt="Other Source Badge"></li>
@@ -719,7 +719,7 @@
 <h2 id="academic-writing">4. AI for Academic Writing</h2>
 
 <h3 id="semi-automatic-academic-writing">4.1 Semi-Automatic Academic Writing</h3>
-<img src="./assets/images/academic-writing.png" style="width: 580pt">
+<img src="./static/images/academic-writing.png" style="width: 580pt">
 <h4 id="assistance-during-manuscript-preparation">4.1.1 Assistance During Manuscript Preparation</h4>
 <b>Title Formulation and Optimization</b>
 <ul>
@@ -853,7 +853,7 @@
 <h2 id="academic-peer-reviewing">5. AI for Academic Peer Reviewing</h2>
 
 <h3 id="pre-review">5.1 Pre-Review</h3>
-<img src="./assets/images/academic-peer-reviewing.png" style="width: 580pt">
+<img src="./static/images/academic-peer-reviewing.png" style="width: 580pt">
 <h4 id="desk-review">5.1.1 Desk-Review</h4>
 <ul>
 <li><i><b>How to Make Peer Review Recommendations and Decisions</b></i>, Society et al., <a href="https://www.computer.org/publications/making-peer-review-recommendations" target="_blank"><img src="https://img.shields.io/badge/Other Source-.00-lightgrey" alt="Other Source Badge"></a></li>
@@ -987,7 +987,7 @@
 <h2 id="application">6. Application</h2>
 
 <h3 id="ai-for-natural-science-research">6.1 AI for Natural Science Research</h3>
-<img src="./assets/images/application.png" style="width: 580pt">
+<img src="./static/images/application.png" style="width: 580pt">
 <h4 id="ai-for-physics-research">6.1.1 AI for Physics Research</h4>
 <b>Physical World Simulation</b>
 <ul>
@@ -1316,7 +1316,7 @@
 </ul>
 <h2 id="future-and-frontiers">7. Future and Frontiers</h2>
 
-<img src="./assets/images/future.png" style="width: 580pt">
+<img src="./static/images/future.png" style="width: 580pt">
 
 <h3 id="interdisciplinary-ai-models">7.1 Interdisciplinary AI Models</h3>
 <ul>
@@ -1463,7 +1463,7 @@
 <li><i><b>X-WebAgentBench: A Multilingual Interactive Web Benchmark for Evaluating Global Agentic System</b></i>, Wang et al., <a href="https://arxiv.org/abs/2505.15372" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
 <h2 id="related-materials">8. Related Materials</h2>
-<img src="./assets/images/related_work.png" style="width: 580pt">
+<img src="./static/images/related_work.png" style="width: 580pt">
 <ul>
 <li><i><b>AI-powered platform for scientific discovery</b></i>, Trifonov et al., <img src="https://img.shields.io/badge/Other Source-.07-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Hypothesis generation with large language models</b></i>, Zhou et al., <a href="https://arxiv.org/abs/2404.04326" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.04-red" alt="arXiv Badge"></a></li>
