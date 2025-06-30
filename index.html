@@ -235,7 +235,7 @@
 
                                         <div class="item">
                                                 <!-- Your image here -->
-                                                <div class="image-container">
+                                                <div class="image-container-wide">
                                                         <img src="static/images/scientific-comprehension.png"
                                                                 alt="MY ALT TEXT" />
                                                 </div>
@@ -244,7 +244,7 @@
                                         </div>
                                         <div class="item">
                                                 <!-- Your image here -->
-                                                <div class="image-container">
+                                                <div class="image-container-wide">
                                                         <img src="static/images/academic-survey.png"
                                                                 alt="MY ALT TEXT" />
                                                 </div>
@@ -262,7 +262,7 @@
                                         </div>
                                         <div class="item">
                                                 <!-- Your image here -->
-                                                <div class="image-container">
+                                                <div class="image-container-wide">
                                                         <img src="static/images/academic-writing.png"
                                                                 alt="MY ALT TEXT" />
                                                 </div>
@@ -321,6 +321,22 @@
                 .image-container img {
                         width: auto;
                         height: 100%;
+                        object-fit: cover;
+                        /* Ensures the image covers the container without distortion */
+                }
+
+                .image-container-wide {
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        height: 510px;
+                        /* Adjusted to double the height (from 300px to 600px) */
+                        overflow: hidden;
+                }
+
+                .image-container-wide img {
+                        width: 100%;
+                        height: auto;
                         object-fit: cover;
                         /* Ensures the image covers the container without distortion */
                 }
